@@ -43,7 +43,6 @@
 - 길거리 데이터 셋 구축 및 전처리 & 후처리
 - DETR 모델 학습 및 최적화
     - MMDetection, Detectron2, TIMM 등의 Object Detection 라이브러리 실험
-- BAN-KVQA 모델 학습 및  최적화 & 새로운 Inference 코드 제작
 - Streamlit 웹 제작 및 5가지 모델 (Object Detection, VQA, OCR, NER, TTS) 연동
 
 <br/>
